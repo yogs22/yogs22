@@ -5,7 +5,7 @@ Work as Software Engineer who manage ERP System and several other applications w
 
 Other information that you know:
 
-- 💰 &nbsp; I also manage my own business <a href="https://vexagame.com">VexaGame</a> which is a gaming blog for millennials
+- 💰 &nbsp; I also manage my own business <a href="https://vexagame.com">VexaGame</a> which is a gaming & techno blog for millennials
 - 🏫 &nbsp; Studied at Mercu Buana Yogyakarta University and took an IT bachelor's degree
 
 📫 &nbsp; Reach me on: 
