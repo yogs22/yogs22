@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-Currently i'm working at <a href="https://dparagon.com">D'Paragon</a> the biggest exclusive boarding house in Indonesia.
-Work as Software Engineer who manage ERP System and several other applications with Laravel and Vue. ✨
+Currently i'm working at <a href="https://luwjistik.com/">Luwjistik</a> as Front End Developer
 
 Other information that you know:
 
