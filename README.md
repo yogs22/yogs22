@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Currently i'm working at <a href="https://luwjistik.com/">Luwjistik</a> as Front End Developer
+Currently i'm working at <a href="https://luwjistik.com/">Luwjistik</a> as Front End Developer and responsible to maintenance product website interfaces using Vue JS
 
 Other information that you know:
 
