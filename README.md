@@ -1,4 +1,4 @@
-# Hi, I'm Yogi 👋
+## Hi, I'm Yogi 👋
 
 **Software Engineer · Entrepreneur · CTO**
 
@@ -39,5 +39,3 @@ But engineering is still where everything started.
 🌐 [yogi.web.id](https://yogi.web.id)  
 🎮 [vexagame.com](https://vexagame.com)  
 ⚡ [vexatech.id](https://vexatech.id)
-
-> Build things that matter. Scale what works.
