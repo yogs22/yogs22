@@ -22,7 +22,7 @@ Currently serving as **CTO**, leading technology and digital infrastructure acro
 ### What I work with
 
 ```text
-Backend       Laravel · PHP · MySQL · Redis
+Backend       Laravel · Golang · Typescript · MySQL · Redis
 Frontend      React · Next.js · TypeScript · Tailwind CSS
 Infrastructure AWS · Cloudflare · Docker · Linux
 Architecture  REST APIs · Distributed Systems · High-Traffic Applications
