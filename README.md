@@ -36,6 +36,6 @@ But engineering is still where everything started.
 
 ### Find me
 
-🌐 [yogi.web.id](https://yogi.web.id)  
+🌐 [yogi.id](https://yogi.id)  
 🎮 [vexagame.com](https://vexagame.com)  
 ⚡ [vexatech.id](https://vexatech.id)
